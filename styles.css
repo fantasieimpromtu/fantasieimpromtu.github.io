@@ -1,0 +1,45 @@
+p {
+  width: 40%;
+  text-align: justified;
+  font-size: 1.3vw;
+  line-height: 1.6;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  font-family: 'Century Gothic';
+}
+
+h1 {
+  text-align: center;
+  line-height: 1.6;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Tw Cen MT';
+  font-size: 3vw;
+  margin-top: 2%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.parallax {
+  height: 570px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://www.sweetwater.com/sweetcare/media/2018/11/Ableton-Live-QS-Banner.png);
+  background-size: 100%;
+}
+
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
